@@ -21,27 +21,33 @@ Simple Auth App
 ==============================
 
 
-laravel new auth-app
-cd auth-app
-php artisan serve
+cmd => laravel new auth-app
+cmd => cd auth-app
+cmd => php artisan serve
 
 
 create database => auth_app_db
 
 
-composer require laravel/breeze
-php artisan breeze:install
+cmd => composer require laravel/breeze
+cmd => php artisan breeze:install
  
-php artisan migrate
-npm install
-npm run dev
+cmd => php artisan migrate
+cmd => npm install
+cmd => npm run dev
 
-
-php artisan serve 
+cmd => php artisan serve 
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/laravel_qr-code/main/Screenshots/Output.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-auth-app/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-auth-app/main/Screenshots/Output-02.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-auth-app/main/Screenshots/Output-03.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-auth-app/main/Screenshots/Output-04.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-auth-app/main/Screenshots/Output-05.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-auth-app/main/Screenshots/Output-06.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-auth-app/main/Screenshots/Output-07.png)
+![](https://raw.githubusercontent.com/codehafeez/laravel-auth-app/main/Screenshots/Output-08.png)
 
 
 ## 🔗 www.codehafeez.com
